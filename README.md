@@ -1,4 +1,4 @@
-# Niburu-Testnet-2
+# Nibiru-Testnet-2
 
 
 Explorer:
